@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","4934","Test1","chromium","2026-11-14","passed","2026-11-14","","reporters.spec.js","",""
+"","4933","Test2","chromium","2026-11-14","passed","2026-11-14","","reporters.spec.js","",""
+"","7951","Test Multiple Tabs","chromium","2026-11-14","passed","2026-11-14","","multitab.spec.js","",""
+"","3441","Test Multiple Tabs","chromium","2026-11-14","failed","2026-11-14","","multitab2.spec.js","",""
+"","5108","Test3","chromium","2026-11-14","passed","2026-11-14","","reporters.spec.js","",""

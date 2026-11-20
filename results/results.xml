@@ -1,0 +1,50 @@
+<testsuites id="" name="" tests="3" failures="0" skipped="0" errors="0" time="1.639762">
+<testsuite name="API\api-get.spec.js" timestamp="2026-11-18T16:21:07.230Z" hostname="chromium" tests="1" failures="0" skipped="0" time="0.793" errors="0">
+<testcase name="API GET Request" classname="API\api-get.spec.js" time="0.793">
+<system-out>
+<![CDATA[{
+  userId: [33m1[39m,
+  id: [33m1[39m,
+  title: [32m'sunt aut facere repellat provident occaecati excepturi optio reprehenderit'[39m,
+  body: [32m'quia et suscipit\n'[39m +
+    [32m'suscipit recusandae consequuntur expedita et cum\n'[39m +
+    [32m'reprehenderit molestiae ut ut quas totam\n'[39m +
+    [32m'nostrum rerum est autem sunt rem eveniet architecto'[39m
+}
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="API\api-get.spec.js" timestamp="2026-11-18T16:21:07.230Z" hostname="firefox" tests="1" failures="0" skipped="0" time="0.366" errors="0">
+<testcase name="API GET Request" classname="API\api-get.spec.js" time="0.366">
+<system-out>
+<![CDATA[{
+  userId: [33m1[39m,
+  id: [33m1[39m,
+  title: [32m'sunt aut facere repellat provident occaecati excepturi optio reprehenderit'[39m,
+  body: [32m'quia et suscipit\n'[39m +
+    [32m'suscipit recusandae consequuntur expedita et cum\n'[39m +
+    [32m'reprehenderit molestiae ut ut quas totam\n'[39m +
+    [32m'nostrum rerum est autem sunt rem eveniet architecto'[39m
+}
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="API\api-get.spec.js" timestamp="2026-11-18T16:21:07.230Z" hostname="webkit" tests="1" failures="0" skipped="0" time="0.367" errors="0">
+<testcase name="API GET Request" classname="API\api-get.spec.js" time="0.367">
+<system-out>
+<![CDATA[{
+  userId: [33m1[39m,
+  id: [33m1[39m,
+  title: [32m'sunt aut facere repellat provident occaecati excepturi optio reprehenderit'[39m,
+  body: [32m'quia et suscipit\n'[39m +
+    [32m'suscipit recusandae consequuntur expedita et cum\n'[39m +
+    [32m'reprehenderit molestiae ut ut quas totam\n'[39m +
+    [32m'nostrum rerum est autem sunt rem eveniet architecto'[39m
+}
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>
